@@ -1,4 +1,4 @@
-assalamualaikum
+<h3 align="center"> اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ </h3>
 <h3 align="center">MAHASISWA TEKNIK </h3>
 
 <h3 align="center">JHEK LAKOH TEDUNG LE TAK PUSING:</h3>
