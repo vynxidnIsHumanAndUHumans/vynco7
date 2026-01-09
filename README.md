@@ -9,6 +9,6 @@ assalamualaikum
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/finnnnz77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="finnnnz77" height="30" width="40" /></a>
+<a href="https://instagram.com/vynix_twin8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vynix_twin8" height="30" width="40" />ig: vynix_twin8</a>
 </p>
 
