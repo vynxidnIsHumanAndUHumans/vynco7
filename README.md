@@ -1,7 +1,7 @@
 <h3 align="center"> اِقْرَأْ بِاسْمِ رَبِّكَ الَّذِيْ خَلَقَۚ </h3>
 <h3 align="center">MAHASISWA TEKNIK </h3>
 
-<h3 align="center">"Stop looking at others. <br>Focus on yourself. <br>And walk the path of your destiny.  <br>Others cannot block your path of destiny. <br>And you also cannot live the destiny of others."<br>berhentilah melihat orang lain <br> fokus pada dirimu <br> dan berjalanlah di jalan takdir dirimu <br>orang lain tak dapat menghalangi jalan takdirmu <br> dan kamu juga tak dapat menjalani takdir orang lain</h3>
+<h3 align="center">"Stop looking at others. <br>Focus on yourself. <br>And walk the path of your destiny.  <br>Others cannot block your path of destiny. <br>And you also cannot live the destiny of others."<br> <br>berhentilah melihat orang lain <br> fokus pada dirimu <br> dan berjalanlah di jalan takdir dirimu <br>orang lain tak dapat menghalangi jalan takdirmu <br> dan kamu juga tak dapat menjalani takdir orang lain</h3>
 <h1 align="center">Hi 👋, I'm  vynxidn</h1>
 <h3 align="center">from INDONESIA</h3>
 
